@@ -6,7 +6,6 @@ This project demonstrates using the [D3 charting library](https://d3js.org/) for
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. You should see something like this:
 
-![D3 charts displayed in Angular](https://i.imgur.com/iXklkMQ.png)
 
 ## Code scaffolding
 
