@@ -8,6 +8,7 @@ import { ScatterComponent } from './scatter/scatter.component';
 import { TreemapComponent } from './treemap/treemap.component';
 import { WorldmapComponent } from './worldmap/worldmap.component';
 import { SelectiondragComponent } from './selectiondrag/selectiondrag.component';
+import { PortfolioComponent } from './portfolio/portfolio.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { SelectiondragComponent } from './selectiondrag/selectiondrag.component'
     ScatterComponent,
     TreemapComponent,
     WorldmapComponent,
-    SelectiondragComponent
+    SelectiondragComponent,
+    PortfolioComponent
   ],
   imports: [
     BrowserModule
