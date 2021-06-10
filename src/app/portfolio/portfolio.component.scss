@@ -32,7 +32,7 @@
 
 .icon{
     height: 30px;
-    margin-left: 10px;
+    margin-left: 40px;
     margin-top: 40px;
 }
 
@@ -42,8 +42,8 @@
 
 img{
     position: absolute;
-   top: 10%;
-   left: 30%;
+   top: 12%;
+   left: 45%;
    width: 180px;
    height: 180px;
    margin-top: -90px; /* Half the height */
@@ -140,7 +140,7 @@ img{
   /* The actual content */
   .content {
     padding: 20px 30px;
-    background-color: rgb(0 123 255 / 18%);
+    background-color: rgb(0 123 255 / 14%);
     position: relative;
     border-radius: 6px;
     font-weight: lighter;
@@ -184,14 +184,14 @@ img{
     margin-left: 40px;
 }
 .card-text{
-    color: black;
+    color: #00bdff;
     font-weight: 500;
     font-family: monospace;
     font-size: 15px;   
     text-align:start;
 }
 .card-body{
-    background-color: rgb(0 123 255 / 18%);
+    background-color: white;
     text-align: start;
     padding: 0.5rem;
 }
@@ -200,6 +200,10 @@ img{
     color: black;
     font-weight: bolder;
     font-family: monospace;
-    background-color: rgb(0 123 255 / 18%);
+    background-color: rgb(0 123 255 / 14%);
     text-align: center;
+}
+.btn-primary{
+    background-color: rgb(0 123 255 / 14%);
+    color: black;
 }
