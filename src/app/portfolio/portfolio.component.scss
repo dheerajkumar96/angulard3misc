@@ -1,5 +1,5 @@
 .portfolio{
-    position: fixed;
+    position: absolute;
     top: 0%;
     left: 0%;
     width:100%;
@@ -8,6 +8,7 @@
     background: url("C:/DheerajWS/angularmisc/angulard3misc/src/assets/david-mccumskay-JKAKwrATVq8-unsplash.jpg");
     background-size: cover;
     display: table;
+    overflow: scroll;
 }
 .portfolio .header{
     vertical-align: top;
@@ -17,15 +18,38 @@
 }
 .header h1{
     text-align: center;
-    font-size: 75px;
-    color: whitesmoke;
-    font-weight: bold;
+    font-size: 50px;
+    color: #00fffaf5;
+    font-weight: lighter;
+    font-family: monospace;
 }
 
-.portfolio .body{
-    vertical-align: middle;
+.body{
+    vertical-align: bottom;
     display: table-cell;
     width: 100%;
-    max-width: none;
-    background-color: whitesmoke;
+}
+
+.icon{
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.fab , .fas{
+    color: #00fffaf5;
+}
+
+.portfolio .image{
+    vertical-align: middle;
+}
+img{
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 180px;
+   height: 180px;
+   margin-top: -90px; /* Half the height */
+   margin-left: -90px; /* Half the width */
+   border-radius: 50%;
 }
