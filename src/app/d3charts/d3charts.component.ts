@@ -12,8 +12,4 @@ export class D3chartsComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
-  async d3js(){
-    this.router.navigate([]);
-  }
 }
