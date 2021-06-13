@@ -1,16 +1,21 @@
 .container {
     width:800px;
     height:190px;
+    padding-top:20px;
+    padding-left:10px;
+    padding-right:10px;
 }
 #st-box {
     float:left;
     width:180px;
     height:160px;
+    margin-left: -250px;
 }
 #nd-box {
     float:left;
     width:180px;
     height:160px;
+    margin-left:20px;
 }
 #rd-box {
     float:right;
