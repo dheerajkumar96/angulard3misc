@@ -1,28 +1,13 @@
-# Angular + D3
+This is my portfolio project. My name is Dheeraj Kumar and I am a software developer. I work on full stack javascript tecnologies.
 
-This project demonstrates using the [D3 charting library](https://d3js.org/) for data visualization with [Angular](http://angular.io/).
+Link to my portfolio:- http://dheerajbportfolio.s3-website.us-east-2.amazonaws.com/portfolio
 
-## Development server
+#Links to some of the apps I developed.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. You should see something like this:
+https://www.angularplay.com/ (in progress)
 
+http://movieapp.s3-website.us-east-2.amazonaws.com/ (movieapp)
 
-## Code scaffolding
+http://appchatbotdemo.s3-website.us-east-2.amazonaws.com/ (sample chatbot)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+https://www.onlycybersecurity.com (cybersecurity blog)
