@@ -1,4 +1,4 @@
-This is my portfolio project. My name is Dheeraj Kumar and I am a software developer. I work on full stack javascript tecnologies.
+This is my portfolio project. My name is Dheeraj Kumar and I am a software developer. I work on full stack javascript technologies.
 
 Link to my portfolio:- http://dheerajbportfolio.s3-website.us-east-2.amazonaws.com
 
